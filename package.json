@@ -18,7 +18,7 @@
     "bot-md",
     "whatsapp-multi-device"
   ],
-  "base": "https://github.com/CyberExpert0101/My-Personal-Bot",
+  "base": "https://github.com/MatrixCoder0101/WHATSAPP-GPT",
   "author": "Goutam Kumar",
   "license": "MIT",
   "dependencies": {
@@ -46,10 +46,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CyberExpert0101/My-Personal-Bot.git"
+    "url": "git+https://github.com/MatrixCoder0101/WHATSAPP-GPT.git"
   },
   "bugs": {
-    "url": "https://github.com/CyberExpert0101/My-Personal-Bot/issues"
+    "url": "https://github.com/MatrixCoder0101/WHATSAPP-GPT/issues"
   },
-  "homepage": "https://github.com/CyberExpert0101/My-Personal-Bot#readme"
+  "homepage": "https://github.com/MatrixCoder0101/WHATSAPP-GPT#readme"
 }
