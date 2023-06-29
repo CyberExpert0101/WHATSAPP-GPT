@@ -212,7 +212,7 @@ async function startHisoka() {
         return;
       if (mek.key.id.startsWith("BAE5") && mek.key.id.length === 16) return;
       m = smsg(client, mek, store);
-      require("./bot")(client, m, chatUpdate, store);
+      require("./nub")(client, m, chatUpdate, store);
     } catch (err) {
       console.log(err);
     }
